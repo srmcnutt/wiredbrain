@@ -1,1 +1,4 @@
 hi there
+james | denver | 555-1212
+west supplies | denver | 555-1212
+east supplies | denver | 555-1212
